@@ -92,6 +92,7 @@ function App() {
 
     return (
         <main className="container">
+            <a href="https://github.com/schrodinger95/si579-problem6/tree/master">Link to code repo</a>
             <h1 className="row">Rhyme Finder (579 Problem Set 6)</h1>
             <div className="row">
                 <div className="col">Saved words:
